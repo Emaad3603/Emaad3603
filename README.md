@@ -1,1 +1,1 @@
-[![Your GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Emaad3603)](https://git.io/streak-stats)
